@@ -15,7 +15,7 @@ pip install -r requirements.txt
 ## Usage
 Run the script and enter your project details:
 ```sh
-python readme_generator_gui.py
+python readme_generator_gui.py 
 ```
 
 
